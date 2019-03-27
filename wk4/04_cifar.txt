@@ -1,0 +1,24 @@
+[1,  2000] loss: 2.226
+[1,  4000] loss: 1.902
+[1,  6000] loss: 1.697
+[1,  8000] loss: 1.612
+[1, 10000] loss: 1.566
+[1, 12000] loss: 1.501
+[2,  2000] loss: 1.458
+[2,  4000] loss: 1.430
+[2,  6000] loss: 1.380
+[2,  8000] loss: 1.363
+[2, 10000] loss: 1.341
+[2, 12000] loss: 1.324
+Finished Training
+
+Accuracy of plane : 67 %
+Accuracy of   car : 77 %
+Accuracy of  bird : 32 %
+Accuracy of   cat : 44 %
+Accuracy of  deer : 51 %
+Accuracy of   dog : 30 %
+Accuracy of  frog : 66 %
+Accuracy of horse : 59 %
+Accuracy of  ship : 51 %
+Accuracy of truck : 60 %
